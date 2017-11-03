@@ -12,3 +12,7 @@ Naza
 fasdfasdf
 asdfasdfas
 >>>>>>> ramauno
+
+
+este es un cambio sobre el archivo NAZA2.TXT
+eSTOS CAMBIOS SE HICIERON SOBRE LA RAMA Naza1
